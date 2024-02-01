@@ -42,3 +42,7 @@ Phyton scripting, Machine Learning, Data analysis, Paper Writing, Artworks
 
 Sonia Arrasate, Humberto González-Díaz, Tomas G. Villa, Bakhtiyor Rasulev,
 Paper design, Funding attraction, Paper Writing, Suppervision
+
+# Funding
+Acknowledgments
+H.G-D. acknowledges financial support from grants MINECO (CTQ2016-74881-P), 2017 – 2019, and MICIIN (PID2019-104148GB-I00), 2020 – 2022, of Spain government and grant (IT1045-16), 2016 – 2021, and IT1558-22, 2022 – 2025, of Basque Government. This project was funded by grants INCITE07PXI203141ES (Conselleria de Industria, Xunta de Galicia, Spain) and BFU2009-07745 (MINECO, Spain).
