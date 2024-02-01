@@ -1,2 +1,2 @@
 # PCR.PTML-project
-PCR.PTML Model and Experimental Data for  aDNA Microbiome Sequences
+PCR.PTML Model for aDNA Microbiome Sequences
