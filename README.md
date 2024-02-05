@@ -5,7 +5,7 @@
 # Authors 
 José L.R. Rama 1, José Manuel Ageitos 1, Lucía Feijoo-Siota 1, Estefania Ascencio-Medina 2,3,4,5, 
 Amirreza Daghighi 2,3 Gerardo Casañola Martin 2, Bakhtiyor Rasulev 2, Cristian R. Munteanu 4,
-Humberto González-Díaz 5,6,78, *and Tomas G. Villa1, *
+Humberto González-Díaz 5,6,78, *and Tomas G. Villa 1, *
 
 # Affiliations 
 1Department of Microbiology and Parasitology, Faculty of Pharmacy, 
@@ -15,7 +15,7 @@ University of Santiago de Compostela, 15782, Santiago de Compostela, Spain.
 3 Biomedical Engineering Program, North Dakota State University, Fargo, ND 58105, USA.
 4 RNASA-IMEDIR, Department of Information and Communication Technologies,
 Computer Science Faculty, University of Coruña (UDC), 15071, A Coruña, Spain.
-5 IKERDATA S.L., ZITEK, University of Basque Country UPVEHU, 
+5 IKERDATA S.L., ZITEK, University of the Basque Country (UPV-EHU), 
 Rectorate Building, 48940 Leioa, Spain.
 6 BIOFISIKA Institute, Spanish National Research Council (CSIC) - 
 University of the Basque Country (UPV/EHU), 48940, Leioa, Basque Country, Spain. 
